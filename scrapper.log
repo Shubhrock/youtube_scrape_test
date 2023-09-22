@@ -1,0 +1,175 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:05:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:05:39] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:05:39] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:05:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name 'MongoClient' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:05:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:07:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:07:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:07:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:dict contains fields not in fieldnames: '_id'
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:07:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:14:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:14:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:14:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:dict contains fields not in fieldnames: '_id'
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:14:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:23:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:23:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:23:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'int' object is not callable
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:23:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:25:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:25:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:25:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:[{'Video Url': 'https://www.youtube.com/watch?v=8Pgsj94Gnkw', 'Thumbnail Url': 'https://i.ytimg.com/vi/8Pgsj94Gnkw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDspib6ES3K4-67_ckqsuXYoQEI6Q', 'Video Title': 'Nationalism in India in One Shot 🎯 || Class - 10th Boards', 'Video Posting Time': '4 days ago', 'Number of Views': '29,233 views', '_id': ObjectId('650c3d616b063025b2d3b404')}, {'Video Url': 'https://www.youtube.com/watch?v=yVkPfvFbQrg', 'Thumbnail Url': 'https://i.ytimg.com/vi/yVkPfvFbQrg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHuobSBCchnmqjg_HI3m5ezfSz6Q', 'Video Title': 'Only 4 Months Left for Class 10th BOARD EXAMS.. \U0001faf5🏻 🎯', 'Video Posting Time': '9 days ago', 'Number of Views': '99,518 views', '_id': ObjectId('650c3d616b063025b2d3b405')}, {'Video Url': 'https://www.youtube.com/watch?v=Al3qF9bfxCs', 'Thumbnail Url': 'https://i.ytimg.com/vi/Al3qF9bfxCs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBjVONDBkeirEduA-jPMThHaFoDMQ', 'Video Title': 'OLYMPIAD EXAMS 2023-2024 | Last Date of Registration | NSE, INO, IOQM 🎯', 'Video Posting Time': '10 days ago', 'Number of Views': '24,280 views', '_id': ObjectId('650c3d616b063025b2d3b406')}, {'Video Url': 'https://www.youtube.com/watch?v=dYh6Chnq0lo', 'Thumbnail Url': 'https://i.ytimg.com/vi/dYh6Chnq0lo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3wXMLJ_0N7LTFQGTtnQyyMmrVyQ', 'Video Title': "Teacher's Day Offers 🔥 | Fastrack Batches LAUNCHED @₹1200 For 9th & 10th | Valid till 12th September", 'Video Posting Time': '2 weeks ago', 'Number of Views': '26,611 views', '_id': ObjectId('650c3d616b063025b2d3b407')}, {'Video Url': 'https://www.youtube.com/watch?v=v22z2ixxN1c', 'Thumbnail Url': 'https://i.ytimg.com/vi/v22z2ixxN1c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDrhT2BnmAs4mQk1qGaE-M0uaqDg', 'Video Title': 'Launching FREE Batch for Class 12th  @PW-ArtsWallah  | NEW Channel | Check Description', 'Video Posting Time': '2 weeks ago', 'Number of Views': '14,702 views', '_id': ObjectId('650c3d616b063025b2d3b408')}, {'Video Url': 'https://www.youtube.com/watch?v=MksUgxuA8L4', 'Thumbnail Url': 'https://i.ytimg.com/vi/MksUgxuA8L4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDQ5SsLg4ClKUiZu7byQQ7M14AdBQ', 'Video Title': 'Launching FREE Batch for Class 9th @Class9th-NEEV  | NEW Channel | Check Description', 'Video Posting Time': '2 weeks ago', 'Number of Views': '115,502 views', '_id': ObjectId('650c3d616b063025b2d3b409')}, {'Video Url': 'https://www.youtube.com/watch?v=3TL4-e3z7CA', 'Thumbnail Url': 'https://i.ytimg.com/vi/3TL4-e3z7CA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFOunuRjlmJFjbixnSLOYNCdnZ5Q', 'Video Title': 'Launching FREE Batch for Class 10th @Class10th-UDAAN  | NEW Channel | Check Description.', 'Video Posting Time': '2 weeks ago', 'Number of Views': '151,520 views', '_id': ObjectId('650c3d616b063025b2d3b40a')}, {'Video Url': 'https://www.youtube.com/watch?v=U09HORTeaB8', 'Thumbnail Url': 'https://i.ytimg.com/vi/U09HORTeaB8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWK65s9_SVUIPOMOdfKwi7W91F2Q', 'Video Title': 'MEGA MOCK TEST Series is LIVE Now 🔴|| For Class-9th & 10th Students @free', 'Video Posting Time': '3 weeks ago', 'Number of Views': '57,446 views', '_id': ObjectId('650c3d616b063025b2d3b40b')}, {'Video Url': 'https://www.youtube.com/watch?v=eazPrtheE14', 'Thumbnail Url': 'https://i.ytimg.com/vi/eazPrtheE14/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9Y9zNxlqJQATraYnUdTY370sl9w', 'Video Title': 'ALERT 🚨 : OLYMPIAD EXAM Registration Open for 2023-2024 | Step by Step Procedure | NSO | IMO | SOF', 'Video Posting Time': '4 weeks ago', 'Number of Views': '30,945 views', '_id': ObjectId('650c3d616b063025b2d3b40c')}, {'Video Url': 'https://www.youtube.com/watch?v=luqdZrYnFOM', 'Thumbnail Url': 'https://i.ytimg.com/vi/luqdZrYnFOM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVSBOKGUwDw==&rs=AOn4CLAZ-QKrG1DvRP_h_fg2Ap6zmMMD4A', 'Video Title': 'Offer Ending Soon 🤯 | Only Few Hours Left | #SapneDekhneKiAzaadi 🔥', 'Video Posting Time': '1 month ago', 'Number of Views': '18,514 views', '_id': ObjectId('650c3d616b063025b2d3b40d')}, {'Video Url': 'https://www.youtube.com/watch?v=YiBqvPi8Q1I', 'Thumbnail Url': 'https://i.ytimg.com/vi/YiBqvPi8Q1I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyxV_JDgk8dhcURfpinoX4xMOKGQ', 'Video Title': 'Upto 35% Off On All PW Batches 🔥 | Only 1 Day Left 🤯 #SapneDekhneKiAzaadi', 'Video Posting Time': '1 month ago', 'Number of Views': '14,322 views', '_id': ObjectId('650c3d616b063025b2d3b40e')}, {'Video Url': 'https://www.youtube.com/watch?v=mw9mLdN6ssA', 'Thumbnail Url': 'https://i.ytimg.com/vi/mw9mLdN6ssA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr9yZ9mMeu874EolUAXr4mL9w8bw', 'Video Title': 'Happy 77th Independence Day 🇮🇳 | Check the Offers Now 🔥 #SapneDekhneKiAzaadi', 'Video Posting Time': '1 month ago', 'Number of Views': '47,502 views', '_id': ObjectId('650c3d616b063025b2d3b40f')}, {'Video Url': 'https://www.youtube.com/watch?v=LuTONVLzESM', 'Thumbnail Url': 'https://i.ytimg.com/vi/LuTONVLzESM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDbbIoxtBQT_Pc2yWrfUxAjNL6Xxg', 'Video Title': 'ARTS की दुनिया की PAHAL 🔥 || Launching Class 11th ARTS BATCH', 'Video Posting Time': '1 month ago', 'Number of Views': '25,692 views', '_id': ObjectId('650c3d616b063025b2d3b410')}, {'Video Url': 'https://www.youtube.com/watch?v=KWXKegvNa-I', 'Thumbnail Url': 'https://i.ytimg.com/vi/KWXKegvNa-I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmSg3HSTm6r9HO6jbtt6X2k60Vhg', 'Video Title': 'Something Big Coming Soon For Class - 9th & 10th Students 🔥 || Stay Tuned For More Updates 🖋️', 'Video Posting Time': '2 months ago', 'Number of Views': '45,305 views', '_id': ObjectId('650c3d616b063025b2d3b411')}, {'Video Url': 'https://www.youtube.com/watch?v=dArUpCasmnE', 'Thumbnail Url': 'https://i.ytimg.com/vi/dArUpCasmnE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZooZVux6hi4Pe2o44xgW0ZidzdA', 'Video Title': 'Launching PAHAL Batch 🔥 For Class 11th Arts Students 💪', 'Video Posting Time': '2 months ago', 'Number of Views': '39,350 views', '_id': ObjectId('650c3d616b063025b2d3b412')}, {'Video Url': 'https://www.youtube.com/watch?v=HqG2QchBw8Y', 'Thumbnail Url': 'https://i.ytimg.com/vi/HqG2QchBw8Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCZpClghOPGpOOQ8S40M4xsoAeAA', 'Video Title': 'Launching FUNDO For Class - 6th to 8th Students 🔥💯 || Ab Hoga Padhai Ke Sath FUN 🤩', 'Video Posting Time': '2 months ago', 'Number of Views': '30,290 views', '_id': ObjectId('650c3d616b063025b2d3b413')}, {'Video Url': 'https://www.youtube.com/watch?v=1izKrQHyx9M', 'Thumbnail Url': 'https://i.ytimg.com/vi/1izKrQHyx9M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGtmz4N3ui0L2WZs2S7qHvnIwQmQ', 'Video Title': '⚡Unleashing the Power of PW Internationally⚡| Launching Physics Wallah Gulf', 'Video Posting Time': '3 months ago', 'Number of Views': '74,117 views', '_id': ObjectId('650c3d616b063025b2d3b414')}, {'Video Url': 'https://www.youtube.com/watch?v=jXAb1evxaJc', 'Thumbnail Url': 'https://i.ytimg.com/vi/jXAb1evxaJc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmeiri9cimEVHPiAh5ootidgIzIg', 'Video Title': 'Big Announcement for Gulf Region Aspirants 🔥| Physics Wallah Gulf Channel Trailer🚀', 'Video Posting Time': '3 months ago', 'Number of Views': '101,741 views', '_id': ObjectId('650c3d616b063025b2d3b415')}, {'Video Url': 'https://www.youtube.com/watch?v=2dn7XMxRtPE', 'Thumbnail Url': 'https://i.ytimg.com/vi/2dn7XMxRtPE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNuCKbYYT7Bqo7b2xVfh27z3YKMw', 'Video Title': 'Arjuna JEE v/s Arjuna NEET 🏏- Class 11th Faculties ka Cricket Match 🔥', 'Video Posting Time': '3 months ago', 'Number of Views': '558,163 views', '_id': ObjectId('650c3d616b063025b2d3b416')}, {'Video Url': 'https://www.youtube.com/watch?v=Fks4dVnTb5M', 'Thumbnail Url': 'https://i.ytimg.com/vi/Fks4dVnTb5M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHXf5XebQJcUioL-AX9g1ZXcizVQ', 'Video Title': 'How to Study Zoology in Class 11th? Ab Saare Doubts Solve Honge !! 🔥', 'Video Posting Time': '3 months ago', 'Number of Views': '13,140 views', '_id': ObjectId('650c3d616b063025b2d3b417')}, {'Video Url': 'https://www.youtube.com/watch?v=nIuGXeISbSo', 'Thumbnail Url': 'https://i.ytimg.com/vi/nIuGXeISbSo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDnazWdDQJGyaWrFBfL4fojeCtPFg', 'Video Title': 'BIGGEST OFFER For Class - 8th ,9th & 10th Students 🤩 || Grab This Opportunity Now 🔥', 'Video Posting Time': '3 months ago', 'Number of Views': '46,312 views', '_id': ObjectId('650c3d616b063025b2d3b418')}, {'Video Url': 'https://www.youtube.com/watch?v=L5G-0FbyAsc', 'Thumbnail Url': 'https://i.ytimg.com/vi/L5G-0FbyAsc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdyC-5lXf_r6bkEwWQ46yoxdhibA', 'Video Title': 'UDAAN Hindi Batch 🔥| Class 10th वालों के बच्चें के लिए Surprises 🎉🎉 #3SaalLajawaab', 'Video Posting Time': '3 months ago', 'Number of Views': '22,514 views', '_id': ObjectId('650c3d616b063025b2d3b419')}, {'Video Url': 'https://www.youtube.com/watch?v=uqDX6hcRf2I', 'Thumbnail Url': 'https://i.ytimg.com/vi/uqDX6hcRf2I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLClh4rZkat6-ZrnFmV1r9LfVQIMIQ', 'Video Title': 'NEEV 2.0 Batch 🔥 | Class 9th वालों के बच्चें के लिए Surprises 🎉🎉 #3SaalLajawaab', 'Video Posting Time': '3 months ago', 'Number of Views': '39,328 views', '_id': ObjectId('650c3d616b063025b2d3b41a')}, {'Video Url': 'https://www.youtube.com/watch?v=9ZVfDuqKIQM', 'Thumbnail Url': 'https://i.ytimg.com/vi/9ZVfDuqKIQM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnJoDuIK1sTwOwMeVCK0TgqBMqWg', 'Video Title': 'How to Study Botany in Class 11th? Ab Saare Doubts Solve Honge !! 🔥', 'Video Posting Time': '3 months ago', 'Number of Views': '19,135 views', '_id': ObjectId('650c3d616b063025b2d3b41b')}, {'Video Url': 'https://www.youtube.com/watch?v=1wMGzlQTyeM', 'Thumbnail Url': 'https://i.ytimg.com/vi/1wMGzlQTyeM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCriEk9XKxmE8B9bV2i9bVMSBgSrg', 'Video Title': 'How To Prepare For National Science Olympiad? 🔥 || A Complete Guide For Class 9th & 10th Students', 'Video Posting Time': '3 months ago', 'Number of Views': '114,130 views', '_id': ObjectId('650c3d616b063025b2d3b41c')}, {'Video Url': 'https://www.youtube.com/watch?v=ivS0xPAbVUs', 'Thumbnail Url': 'https://i.ytimg.com/vi/ivS0xPAbVUs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDK11Y9cIabVtUjp1nmjPsbzGvtPQ', 'Video Title': 'How to Study Physics in Class 11th? Ab Saare Numericals Solve Honge !! 🔥', 'Video Posting Time': '3 months ago', 'Number of Views': '41,559 views', '_id': ObjectId('650c3d616b063025b2d3b41d')}, {'Video Url': 'https://www.youtube.com/watch?v=UJb799ZLCwQ', 'Thumbnail Url': 'https://i.ytimg.com/vi/UJb799ZLCwQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCybvaLSQPFcP0WWtgpRmcEvCF_ig', 'Video Title': 'Why Maximum Students WASTED their Class 11th? The HARSH TRUTH !!', 'Video Posting Time': '4 months ago', 'Number of Views': '45,291 views', '_id': ObjectId('650c3d616b063025b2d3b41e')}, {'Video Url': 'https://www.youtube.com/watch?v=RPCHRtdO9hg', 'Thumbnail Url': 'https://i.ytimg.com/vi/RPCHRtdO9hg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrk2Bz2QtjI49bCY2WslrJRXxPcA', 'Video Title': 'Meet Bhakti Agrawal : The Topper of Our CBSE Board Class - 10th 2023 🔥', 'Video Posting Time': '4 months ago', 'Number of Views': '24,568 views', '_id': ObjectId('650c3d616b063025b2d3b41f')}, {'Video Url': 'https://www.youtube.com/watch?v=iN2UWJW3lzo', 'Thumbnail Url': 'https://i.ytimg.com/vi/iN2UWJW3lzo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDsdt80zcMf4TIuaTmcc7fwf4-E5w', 'Video Title': 'How To Plan Maths Strategy For Class -10th To Score 95%+ Marks || CBSE Boards 🔥', 'Video Posting Time': '4 months ago', 'Number of Views': '464,348 views', '_id': ObjectId('650c3d616b063025b2d3b420')}, {'Video Url': 'https://www.youtube.com/watch?v=lRle7Jzciq8', 'Thumbnail Url': 'https://i.ytimg.com/vi/lRle7Jzciq8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCB6VmICIFkLrPomPaIlEkOgVqeFQ', 'Video Title': 'Meet Dilisha Rajput : The Topper of Our CBSE Board Class - 10th 2023 🔥', 'Video Posting Time': '4 months ago', 'Number of Views': '18,380 views', '_id': ObjectId('650c3d616b063025b2d3b421')}, {'Video Url': 'https://www.youtube.com/watch?v=lRle7Jzciq8', 'Thumbnail Url': 'https://i.ytimg.com/vi/lRle7Jzciq8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCB6VmICIFkLrPomPaIlEkOgVqeFQ', 'Video Title': 'Meet Dilisha Rajput : The Topper of Our CBSE Board Class - 10th 2023 🔥', 'Video Posting Time': '4 months ago', 'Number of Views': '18,380 views', '_id': ObjectId('650c3d616b063025b2d3b422')}, {'Video Url': 'https://www.youtube.com/watch?v=lRle7Jzciq8', 'Thumbnail Url': 'https://i.ytimg.com/vi/lRle7Jzciq8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCB6VmICIFkLrPomPaIlEkOgVqeFQ', 'Video Title': 'Meet Dilisha Rajput : The Topper of Our CBSE Board Class - 10th 2023 🔥', 'Video Posting Time': '4 months ago', 'Number of Views': '18,380 views', '_id': ObjectId('650c3d616b063025b2d3b423')}, {'Video Url': 'https://www.youtube.com/watch?v=lRle7Jzciq8', 'Thumbnail Url': 'https://i.ytimg.com/vi/lRle7Jzciq8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCB6VmICIFkLrPomPaIlEkOgVqeFQ', 'Video Title': 'Meet Dilisha Rajput : The Topper of Our CBSE Board Class - 10th 2023 🔥', 'Video Posting Time': '4 months ago', 'Number of Views': '18,380 views', '_id': ObjectId('650c3d616b063025b2d3b424')}]
+INFO:root:dict contains fields not in fieldnames: '_id'
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:26:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:29:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:29:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:29:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'reviews' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:29:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:31:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:31:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:31:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:31:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:31:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:31:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:33:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:40:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:40:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:40:44] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:40:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:40:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:40:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:44:50] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:44:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:44:50] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:44:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:54:27] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:54:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:54:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:54:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.24:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:58:11] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:58:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:58:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Sep/2023 18:58:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:10:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:10:36] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:10:36] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:10:42] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:12:27] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:12:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:12:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:12:36] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:16:18] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:16:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:16:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:25:27] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:25:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:25:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:25:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:26:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:26:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:26:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:49] "POST /review HTTP/1.1" 200 -
