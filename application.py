@@ -7,7 +7,6 @@ import logging
 import pymongo
 from pymongo.mongo_client import MongoClient
 import os
-import urllib
 import re
 import json
 import csv
