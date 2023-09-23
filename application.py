@@ -94,7 +94,7 @@ def index():
                 writer.writeheader()
                 writer.writerows(mydic)
             
-            return render_template('result.html', mydic=mydic[0:(len(mydic)-1)])
+            return render_template('result.html', mydic=mydic[0:(len(mydic))])
             #return "well done"
                 
         except Exception as e:
