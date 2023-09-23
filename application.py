@@ -3,6 +3,7 @@ from flask_cors import CORS, cross_origin
 import requests
 from bs4 import BeautifulSoup
 import logging
+import urllib
 from pymongo.mongo_client import MongoClient
 import os
 import re
@@ -78,7 +79,7 @@ def index():
                                                 number_of_views = v2['simpleText']
                                     video_data = {'Video Url' : 'https://www.youtube.com/watch?v=' + video_Id, 'Thumbnail Url' : thumbnail_url, 'Video Title' : video_title, 'Video Posting Time' : time_of_posting, 'Number of Views' : number_of_views}
                                     mydic.append(video_data)
-            pass1 = urllib3.parse.quote("password@3001")
+            pass1 = urllib.parse.quote("password@3001")
             uri = "mongodb+srv://shubh:{}@cluster0.sne4rgf.mongodb.net/?retryWrites=true&w=majority".format(pass1)
             client = MongoClient(uri)
             db = client['youtube_scrap']
