@@ -28,7 +28,7 @@
       {% for review in mydic %}
       <tr>
         <td>{{review['Video Url']}}</td>
-        <td>{{review['Thumbnail Url']}}</td>
+        <td><img src="{{review['Thumbnail Url']}}" /></td>
         <td>{{review['Video Title']}}</td>
         <td>{{review['Video Posting Time']}}</td>
         <td>{{review['Number of Views']}} </td>
