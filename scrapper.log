@@ -173,3 +173,137 @@ INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:44] "GET /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 05:29:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:25:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:25:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:25:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib3' is not defined
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:25:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:27:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:27:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:27:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib' is not defined
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:27:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.4:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:32:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:32:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:32:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:33:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:59:48] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:59:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [22/Sep/2023 06:59:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:36:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:36:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:36:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:37:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:55:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:55:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:55:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:55:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:58:12] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:58:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:58:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib3' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 11:58:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:00:02] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:00:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:00:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib3' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:00:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:10] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:19] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:19] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Username and password must be escaped according to RFC 3986, use urllib.parse.quote_plus
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:01:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:03:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:03:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:03:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:module 'urllib3.util' has no attribute 'quote'
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:03:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:06:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:06:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:06:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:module 'urllib3' has no attribute 'parse'
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:06:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.60:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:07:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:07:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:07:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:07:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:34:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:34:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:34:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'urllib' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:34:28] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:38:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:name 'urllib3' is not defined
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 12:38:51] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
